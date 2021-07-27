@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 
-export default class Boookcase extends Component {
+export default class BookCase extends Component {
   render() {
     return (
       <View style={styles.container}>
